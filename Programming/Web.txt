@@ -1,0 +1,16 @@
+This has some really good 'starting out' and dabbleing information.  Just look over a few when you have a day.  Become well rounded.  
+
+1) Helpful Video Tutorials:
+   ------------------------
+
+   http://net.tutsplus.com/articles/web-roundups/30-more-helpful-video-tutorials-for-web-developers/?search_index=13
+
+2) Eye Opening Dev. Screencasts: *mainly web
+   -----------------------------
+
+   http://net.tutsplus.com/articles/web-roundups/30-eye-opening-web-development-screencasts/?search_index=25
+
+3) Code Optimization:
+   ------------------
+
+   http://net.tutsplus.com/articles/general/15-tips-to-speed-up-your-website-and-optimize-your-code/?search_index=41

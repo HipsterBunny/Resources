@@ -1,0 +1,20 @@
+PHP is a very powerful resource on the interwebs. I really love it, but there are so many ways to accomplish what you want with PHP.  You can code lazy, or you can pay more attention and craft some very nice reuseable pieces of code.
+
+Here are some resources for PHP that are very much worth looking into.
+
+1) 40+ Invaluable PHP Tutorials and Resources: *basically covers it all
+   ------------------------------------------
+
+   http://net.tutsplus.com/articles/web-roundups/40-invaluable-php-tutorials-and-resources/?search_index=22
+
+2) PHP and FTP:
+   ------------
+
+   http://net.tutsplus.com/tutorials/php/how-to-work-with-php-and-ftp/?search_index=35 
+
+3) Using AJAX with PHP - shopping cart:
+   ------------------------------------
+
+   http://net.tutsplus.com/tutorials/php/build-an-ajax-powered-shopping-cart/?search_index=44
+
+4)
