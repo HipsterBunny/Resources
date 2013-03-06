@@ -13,9 +13,13 @@
 <body>
   <?php
     # an object is created from class/blueprint Person
-    $emely = new Person();
-    $anton = new Person();
-
+    $emely = new Person("");
+    $anton = new Person("");
+    $larry = new Person("Larry Needlemeyer");
+    
+    # create person of class Employee (which extends Person)
+    $eunis = new Employee("Eunis Laflure");  
+ 
     # set data in objects via setter method
     $emely->set_name("Emely Crue");
     $anton->set_name("Anton Pavoycheck");
@@ -25,9 +29,11 @@
     echo "</p>";
     echo "<p>Anton's full name: " . $anton->get_name();
     echo "</p>";
+    echo "<p>Larry's full name: " . $larry->get_name();
+    echo "</p>";
+    echo "<p>Eunis'  full name: " . $eunis->get_name();
+    echo "</p>";
                        # tutorial tells me to get a beer. Okay.
-
-   
 
   ?>
 </body>
