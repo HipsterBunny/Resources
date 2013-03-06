@@ -1,5 +1,6 @@
 <?php
-  # "OOP revoloves around a construct called a 'class'.  Classes are  # the cookie-cutters / templates that are used to define objects."
+  # "OOP revoloves around a construct called a 'class'.  Classes are  
+  # the cookie-cutters / templates that are used to define objects."
 
   # define your class
   Class Person {
@@ -9,6 +10,11 @@
 
     # a class can also hold methods which should be used
     # to manipulate its OWN data and properties 
+
+    # class constructor (called when object is created)
+    function __construct($persons_name) {
+      $this->name = $persons_name;
+    }
 
     # function set_name used to set var $name to $new_name
     function set_name($new_name) { # called a setter function
